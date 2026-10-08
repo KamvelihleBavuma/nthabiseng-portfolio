@@ -5,7 +5,7 @@ export const profile = {
   qualification: "Diploma in Applications Development",
   courseStructure: "Extended four-year programme",
   courseStart: 2024,
-  studyYear: "Second-year student",
+  studyYear: "Third-year student",
   tutoringYear: 2026,
   module: "Development Software 1",
   lecturer: "Mrs. Twetwa-Dube",
@@ -43,7 +43,7 @@ export const strengths = [
 ];
 
 export const personalStatement = [
-  "I am Nthabiseng Maruping, a second-year student in the extended four-year Diploma in Applications Development at Walter Sisulu University. I began my studies in 2024 and tutor Development Software 1 in 2026.",
+  "I am Nthabiseng Maruping, a third-year student in the extended four-year Diploma in Applications Development at Walter Sisulu University. I began my studies in 2024 and tutor Development Software 1 in 2026.",
 
   "I bring a bubbly, vibrant, and friendly personality to my work, alongside a demanding and hard-working approach. Leading module assessments and projects in my course has helped me develop leadership and speaking skills.",
 
