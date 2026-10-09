@@ -16,7 +16,7 @@ export const profile = {
 
   // Set this after placing the actual image in public/images:
   // portrait: "/images/nthabiseng-portrait.jpg",
-  portrait: null,
+  portrait: "/images/profile-image.jpg",
 
   contactEmail: "",
   tagline: "Learning with purpose. Leading with heart.",
